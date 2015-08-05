@@ -1,0 +1,12 @@
+# Linux
+*.swp
+
+# Maven
+target
+
+# IDEA
+.idea
+*.iml
+
+wls1036_generic.jar
+jdk-7u79-linux-x64.rpm
